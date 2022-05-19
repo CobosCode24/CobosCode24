@@ -1,11 +1,17 @@
-# - ¡Hola! Bienvenido a mi perfil de github. - 
+# - Hello! Welcome to my github profile. - 
 
- **Sobre mi**
+ **About me** :man:
 
-> Me llamo Manuel y soy un estudiante del curso de *Desarrollo de apliaciones Multiplataforma*.
-
----
-**Mis redes sociales**  :iphone:
+> My name is Manuel and I am a student of the course of *Development of Multiplatform applications*.
 
 
-!(linkedin)https://user-images.githubusercontent.com/96954375/169296035-2d752427-d540-4dd5-a921-99e6d1aa4366.png
+
+**My social networks**  :iphone:
+
+- [Linkedin]( https://www.linkedin.com/in/manuelcobos)
+- [Instagram](https://www.instagram.com/maanuu__24)
+- [Youtube](https://www.youtube.com/c/coboscode)
+
+**Statistics**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coboscode24)](https://github.com/coboscode24/github-readme-stats)
