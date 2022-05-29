@@ -22,7 +22,7 @@ void CobosCode(){
 
 <a href="https://www.linkedin.com/in/manuelcobos" target="blank" style='margin-right:4px'><img align="center" src="https://user-images.githubusercontent.com/96954375/169296035-2d752427-d540-4dd5-a921-99e6d1aa4366.png" alt="CobosCode" height="40px" width="40px" /></a>
 <a href="https://www.instagram.com/maanuu__24" target="blank" style='margin-right:4px'><img align="center" src="https://user-images.githubusercontent.com/96954375/169299654-3ca45840-b085-48fa-8496-da2466a4ee13.png" alt="CobosCode" height="40px" width="40px" /></a>
-<a href="https://coboscode24.github.io/" target="blank" style='margin-right:4px'><img aling="center" src="https://user-images.githubusercontent.com/96954375/170861029-31d47f35-1333-46bf-b558-6b18836c9de7.png" alt="CobosCode" height="40px" width="40px" /></a>
+<a href="https://coboscode24.github.io/" target="blank"><img aling="center" src="https://user-images.githubusercontent.com/96954375/170861029-31d47f35-1333-46bf-b558-6b18836c9de7.png" alt="CobosCode" height="40px" width="40px" /></a>
 
 ---
  <br>
