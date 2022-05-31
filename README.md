@@ -5,13 +5,13 @@
 
 **Sobre mi** :man:
 
-```c++
+```cpp
 void CobosCode(){
     string Lenguajes = ["html", "css", "c++", "markdown"];
 
     string situacion = "Estudiante";
 
-    string ubicacion = "Extremadura, Caceres";
+    string ubicacion = "España";
 
 }
 ```
